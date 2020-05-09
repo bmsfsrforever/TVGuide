@@ -1,0 +1,8 @@
+<Programs xmlns="">
+	<Channel Name="Channel One Bonnyrigg">
+		<Program Title="Test Card - COB" Time="18:00"/>
+	</Channel>
+	<Channel Name="Channel One Musselburg">
+		<Program Title="Test Card - COM" Time="18:00"/>
+	</Channel>
+</Programs>
